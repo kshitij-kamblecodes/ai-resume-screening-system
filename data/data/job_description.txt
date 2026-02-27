@@ -1,0 +1,3 @@
+Looking for a Data Scientist with strong knowledge of Python,
+Machine Learning, NLP, SQL, data analysis, and model building.
+Experience with scikit-learn and Flask is a plus.
